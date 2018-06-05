@@ -2,9 +2,9 @@
 
 This repository is the **Master Repository.**
 
-Each **team** should have **one** member of the team make a _fork_ of the master repository. This will be the **Team Repository.** The owner of the team repository should create a _branch_ <team name>-master. For example, the owner (forker) of the UI team repository would create a branch called **ui-master**.
+Each **team** should have **one** member of the team make a _fork_ of the master repository. This will be the **Team Repository.** The owner of the team repository should create a _branch_ `<team name>-master`. For example, the owner (forker) of the UI team repository would create a branch called **ui-master**.
 
-On each team, each member of the team should make a fork of their **team repository** (not of this repository). This will be your **Individual Repository.** Once you have your individual repository, create a branch for your _pull requests_ and call it <your-name>-master - thus, my branch would be called **doug-master**.
+On each team, each member of the team should make a fork of their **team repository** (not of this repository). This will be your **Individual Repository.** Once you have your individual repository, create a branch for your _pull requests_ and call it `<your-name>-master` - thus, my branch would be called **doug-master**.
 
 ## Use of branches
 
