@@ -6,18 +6,34 @@
 
 ### Responsibilities
 
-Blah, blah, blah.
+>Describe what this team member is contribution to the project will be. Try to put it in the form of a SMART goal (a reasonable and specific target with a measurable outcome).
 
-- [ ] Task 1
+>Make a list of the steps to accomplish your goal, add steps as needed. Note that the Markdown processor is fussy about the format, start at the beginning of the line and be sure to allow spaces after the dash and between the square brackets `- [ ] `.
 
-- [ ] Tast 2
+- [ ] Step 1
 
-## Member B
+- [ ] Step 2
+
+## Member B 
 
 ### Responsibilities
 
-Blah, blah, blah.
+>Describe what this team member is contribution to the project will be. Try to put it in the form of a SMART goal (a reasonable and specific target with a measurable outcome).
 
-- [ ] Task 1
+>Make a list of the steps to accomplish your goal, add steps as needed. Note that the Markdown processor is fussy about the format, start at the beginning of the line and be sure to allow spaces after the dash and between the square brackets `- [ ] `.
 
-- [ ] Tast 2
+- [ ] Step 1
+
+- [ ] Step 2
+
+## Member C 
+
+### Responsibilities
+
+>Describe what this team member is contribution to the project will be. Try to put it in the form of a SMART goal (a reasonable and specific target with a measurable outcome).
+
+>Make a list of the steps to accomplish your goal, add steps as needed. Note that the Markdown processor is fussy about the format, start at the beginning of the line and be sure to allow spaces after the dash and between the square brackets `- [ ] `.
+
+- [ ] Step 1
+
+- [ ] Step 2
