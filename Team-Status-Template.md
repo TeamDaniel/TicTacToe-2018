@@ -1,4 +1,4 @@
->Rename this document to `<your team name>-Status.md` and have each team member fill in their part in their individual repository. Then create a pull request to merge them.
+>Rename this document to `<your team name>-Status.md` and have each team member fill in their part in their individual repository. Then create a pull request to merge them. Note that the IntelliJ Markdown processor isn't the best so you may find it easier to work online.
 
 # Team Name
 
