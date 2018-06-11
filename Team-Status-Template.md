@@ -8,9 +8,9 @@
 
 Blah, blah, blah.
 
-[ ] Task 1
+*[ ] Task 1
 
-[ ] Tast 2
+*[ ] Tast 2
 
 ## Member B
 
@@ -18,6 +18,6 @@ Blah, blah, blah.
 
 Blah, blah, blah.
 
-[ ] Task 1
+*[ ] Task 1
 
-[ ] Tast 2
+*[ ] Tast 2
