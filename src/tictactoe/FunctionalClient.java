@@ -1,10 +1,10 @@
 package tictactoe;
 import java.io.*;
 import java.net.*;
-public class clienttest2 {
+public class FunctionalClient {
     public static void main(String[] args) throws Exception
     {
-        Socket sock = new Socket("127.0.0.1", 3000);
+        Socket sock = new Socket("10.10.105.21", 3000);
         BufferedReader keyRead = new BufferedReader(new InputStreamReader(System.in));
         OutputStream ostream = sock.getOutputStream();
         PrintWriter pwrite = new PrintWriter(ostream, true);

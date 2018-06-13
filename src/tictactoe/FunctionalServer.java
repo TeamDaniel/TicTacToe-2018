@@ -1,7 +1,7 @@
 package tictactoe;
 import java.io.*;
 import java.net.*;
-public class Servertest2 {
+public class FunctionalServer {
             public static void main(String[] args) throws Exception
         {
             ServerSocket sersock = new ServerSocket(3000);    //instruction7 System.out.println("Server ready for chatting");       //instruction 8
