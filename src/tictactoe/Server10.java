@@ -20,7 +20,7 @@ public class Server10 {
          * than 1023 if we are not privileged users (root).
          */
         try {
-            echoServer = new ServerSocket(12345);
+            echoServer = new ServerSocket(2222);
         } catch (IOException e) {
             System.out.println(e);
         }

@@ -19,7 +19,7 @@ public class Client {
          * Open a socket on port 2222. Open the input and the output streams.
          */
         try {
-            clientSocket = new Socket("localhost", 2222);
+            clientSocket = new Socket("10.10.105.21", 2222);
             os = new PrintStream(clientSocket.getOutputStream());
             is = new DataInputStream(clientSocket.getInputStream());
             inputLine = new DataInputStream(new BufferedInputStream(System.in));
